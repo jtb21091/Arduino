@@ -6,3 +6,5 @@ simple code to get your board to blink
 code to get heart rate and pulse oxygen or SP02
 
 https://github.com/user-attachments/assets/8594576e-b5a6-48de-b3e7-3bdfc135d608
+
+https://github.com/user-attachments/assets/116e2c9f-b4b0-4674-980b-55b347c82c10
